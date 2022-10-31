@@ -24,4 +24,5 @@ The Lobby automatically starts the game when all players are ready. When a line 
 
 <img src = "/img/lobby.gif">
 # Credit
+
 This game was a team project done with [@la-lo-go](https://github.com/la-lo-go) which received a 10/10 mark 💯. You can see our code contributions in the javadoc. 
