@@ -15,11 +15,11 @@ The game is made using basic Java OOP, implementing the following objects to mak
 ### Cardboard
 Cardboard doesn't have duplicate numbers, and each an every time a number from the cardboard equals the one that was randomly selected in the raffle, it's replaced by a "0".
 
-<img src = "./img/cardboard.jpg"></img>
+[![cardboard.jpg](https://i.postimg.cc/ZRbVxQ3m/cardboard.jpg)](https://postimg.cc/Nyn6gppC)
 ### Player
 Players are generated randomly, and asigned names such as "Jugador 1". Players are able to buy cardboards to keep playing. Players decide on buying depending on the amount of money that they have and their "gambling addiction", which is a stat randomly given to every player. When a player runs out of money, they get kicked out of the game. 
 
-<img src = "./img/player.jpg"></img>
+[![player.jpg](https://i.postimg.cc/63bLLptV/player.jpg)](https://postimg.cc/sQSh3yB1)
 ### Lobby
 The Lobby automatically starts the game when all players are ready. When a line of numbers from one player's cardboard is completed, that player will receive a little money price. When a full cardboard is completed, otherwise known as Bingo!, the games finishes and gives the prize to the winner. 
 
